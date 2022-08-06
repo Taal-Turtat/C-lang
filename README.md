@@ -47,8 +47,9 @@ Distinguish vertical or lateral
 
 No7
 
-No such code
+Test of "bool"
 
+boolのテスト
 
 
 No8
