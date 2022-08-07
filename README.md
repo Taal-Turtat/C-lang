@@ -2,7 +2,9 @@
 C language especially c++
 
 No1 
- No such code
+ Hello,World
+ 
+ ハローワールド
 
 
 
