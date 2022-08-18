@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<>
 using namespace std;
 
 int main(){
@@ -7,9 +7,9 @@ int main(){
   int res;
   int chx, chy, chz;
   int mes;
-  cout << "Insert the First Vector" << endl;
+  cout << "Input the First Vector" << endl;
   cin >> x1 >> y1 >> z1;
-  cout << "Insert the Second Vector" << endl;
+  cout << "Insput the Second Vector" << endl;
   cin >> x2 >> y2 >> z2;
   cout << "dot!" << endl;
   res = x1 * x2 + y1 * y2 + z1 * z2;
